@@ -1,3 +1,3 @@
-# Project Name
+# Ray Wilson's Dual VCA
 
-some description about this project goes here.
+Somewhere I read that you can never have enough VCA’s, and I’ve build a number of them over the years. This one is a straight up clone of a design by the late Ray Wilson from Music From Outer Space. Really nice and versatile module.
